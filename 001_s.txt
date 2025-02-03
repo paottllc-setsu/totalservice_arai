@@ -1,24 +1,24 @@
-20241027ï¼š
+20241027F
 
-C:\Users\åˆ©æ˜\github\sample>git branch -a
+C:\Users\—˜–¾\github\sample>git branch -a
 * main
   remotes/origin/main
   remotes/origin/master
 
-C:\Users\åˆ©æ˜\github\sample>git branch -r
+C:\Users\—˜–¾\github\sample>git branch -r
   origin/main
   origin/master
 
-C:\Users\åˆ©æ˜\github\sample>git pull origin remote/origin/maste:test
+C:\Users\—˜–¾\github\sample>git pull origin remote/origin/maste:test
 fatal: couldn't find remote ref remote/origin/maste
 
-C:\Users\åˆ©æ˜\github\sample>git pull origin remote/origin/master:test
+C:\Users\—˜–¾\github\sample>git pull origin remote/origin/master:test
 fatal: couldn't find remote ref remote/origin/master
 
-C:\Users\åˆ©æ˜\github\sample>git pull origin master:test
+C:\Users\—˜–¾\github\sample>git pull origin master:test
 From https://github.com/paottllc-setsu/totalservice_arai
  * [new branch]      master     -> test
-hint: Waiting for your editor to close the file... dos2unix: converting file C:/Users/åˆ©æ˜/github/sample/.git/MERGE_MSG to Unix format...
+hint: Waiting for your editor to close the file... dos2unix: converting file C:/Users/—˜–¾/github/sample/.git/MERGE_MSG to Unix format...
 Merge made by the 'ort' strategy.
  01.txt      |  0
  V-Point.txt | 66 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -30,11 +30,11 @@ Merge made by the 'ort' strategy.
  create mode 100644 data1.csv
  create mode 100644 vakue.txt
 
-C:\Users\åˆ©æ˜\github\sample>git branch
+C:\Users\—˜–¾\github\sample>git branch
 * main
   test
 
-C:\Users\åˆ©æ˜\github\sample>git switch test
+C:\Users\—˜–¾\github\sample>git switch test
 Switched to branch 'test'
 
 =====================================================
@@ -42,5 +42,5 @@ ADD
 =====================================================
 
 20250203
-mainã¨testã§åŒã˜ãƒ•ã‚¡ã‚¤ãƒ«åã¯ç´›ã‚‰ã‚ã—ã„ã®ã§ã€ã“ã¡ã‚‰ã€Œtestã€ã¯ãã®ã¾ã¾ã«
-ã€Œmainã€ã¯maim_text.txtã«å¤‰æ›´ã—ãŸã€‚
+main‚Ætest‚Å“¯‚¶ƒtƒ@ƒCƒ‹–¼‚Í•´‚ç‚í‚µ‚¢‚Ì‚ÅA‚±‚¿‚çutestv‚Í‚»‚Ì‚Ü‚Ü‚É
+umainv‚Ímaim_text.txt‚É•ÏX‚µ‚½B
